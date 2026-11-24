@@ -131,6 +131,16 @@ flowchart TD
 8. If geofencing mode is activated, the device continues sending location updates at configured intervals.
 
 ---
+## 📸 Project Gallery
+
+### 1. Internal Hardware
+![EVA Internal Hardware](images/eva-internal-hardware.png)
+
+### 2. GPS Antenna
+![EVA GPS Antenna](images/eva-gps-antenna.png)
+
+### 3. Side View – Emergency Button
+![EVA Side View](images/eva-side-view.png)
 
 ## 🧪 Performance Evaluation
 
