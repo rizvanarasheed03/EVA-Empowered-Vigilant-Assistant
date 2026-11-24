@@ -238,10 +238,21 @@ GPS activation is managed around location acquisition requirements. Further opti
 - [Download the Complete EVA Project Report](EVA_Project_Report.pdf)
 - [View Source Code](src/eva_main.py)
 
-## 📜 License
+## © Copyright and Intellectual Property
 
-This project is intended for academic and educational purposes. Add an appropriate open-source license before permitting reuse or redistribution.
+Copyright © 2026 EVA Project Team. All rights reserved.
 
+EVA – Empowered Vigilant Assistant is associated with
+a published patent application involving the project
+team and Ilahia College of Engineering and Technology.
+
+The source code, documentation and project materials
+are provided for viewing and educational evaluation only.
+
+No permission is granted to copy, modify, reproduce,
+redistribute or commercially use these materials
+without prior written authorization from the respective
+rights holders.
 ---
 
 <p align="center">
