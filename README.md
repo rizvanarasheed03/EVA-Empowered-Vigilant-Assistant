@@ -235,7 +235,8 @@ GPS activation is managed around location acquisition requirements. Further opti
 
 ## 📄 Project Documentation
 
-Refer to the `docs/` directory for the complete project report, circuit diagrams, and additional technical documentation, where available.
+- [Download the Complete EVA Project Report](EVA_Project_Report.pdf)
+- [View Source Code](src/eva_main.py)
 
 ## 📜 License
 
